@@ -1,0 +1,12 @@
+# IDE files
+.idea
+nbproject
+.buildpath
+.project
+.settings
+
+# OS files
+Thumbs.db
+.DS_Store
+.empty
+.localized
