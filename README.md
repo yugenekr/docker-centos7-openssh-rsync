@@ -1,0 +1,1 @@
+Docker image to build the latest CentOS with openSSH and rsync.
